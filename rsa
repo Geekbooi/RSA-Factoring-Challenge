@@ -41,5 +41,4 @@ def factors(filename):
             n = int(i)
             result = factory(n)
 
-
 if __name__ == "__main__":
